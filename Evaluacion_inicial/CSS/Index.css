@@ -1,0 +1,55 @@
+header{
+    background-color: rgb(65, 58, 58);
+    color: white;
+    padding: 0.5px;
+    text-align: center;
+    size: 30px;
+    font-family: "Fascinate Inline", system-ui;
+    
+    
+   
+}
+body{
+    background-color: bisque;
+    marg: 0%;
+
+}
+
+#InformacionBienvenida{
+ 
+ margin-left: 5%;
+}
+
+nav{
+    background-color:rgb(235, 206, 171);
+    text-align: center;
+    margin: 0.5%
+    
+
+}
+#logo{
+    margin-right: 95%;
+}
+
+
+#ImagenBienvenida{
+    float: right;
+    margin-left: 10%;
+    margin-top: 5%;
+   
+}
+img{
+    border-radius: 20%;
+}
+
+#SobreNosotros{
+    float: left;
+    margin-right: 60%;
+    
+}
+nav{
+    color: black;
+}
+footer{
+    background-color: aqua;
+}
