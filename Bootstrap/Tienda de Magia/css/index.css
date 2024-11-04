@@ -9,3 +9,14 @@ body{
 a{
     color: black;
 }
+
+#icono{
+    margin-left: 900px;
+}
+
+#logo{
+    border-radius: 100%;
+    height: 264px !important;
+    width: 264px !important;
+    margin: 0 auto;
+}
